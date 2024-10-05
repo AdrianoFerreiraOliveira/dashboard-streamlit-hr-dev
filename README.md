@@ -13,7 +13,7 @@ Get Started:
 Clone the project
 
 ```bash
-  git clone https://(https://github.com/AdrianoFerreiraOliveira/dashboard-streamlit-hr-dev.git)
+  git clone https://github.com/AdrianoFerreiraOliveira/dashboard-streamlit-hr-dev.git
 ```
 
 Enter the project directory
